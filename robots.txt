@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://vahhougha.banzhongxing.com/sitemap.xml
